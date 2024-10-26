@@ -119,7 +119,7 @@ For more information, refer to [Connor McCartney's RSA writeup](https://connor-m
 ## Conclusion
 After obtaining p and q, we verified that p * q = n, proving that our factorization was correct. With the factors of n, we successfully decrypted further messages in the challenge.
 
-![Alt Text](/hi.png)
+![alt text](image.png)
 
 #### Flag - EWU{Bra!_4RenT_Y0u_th3_CommOn_RSA!_MMKa8bKRdMHvZUpGjl}
 
